@@ -12,8 +12,8 @@ API_KEY = "SAM-8ec168eb-4e90-41a6-991e-283e20022f53"
 # Date range — pulls the last 12 months automatically
 # -------------------------------------------------------
 today        = datetime.today()
-one_year_ago = today - timedelta(days=365)
-date_from    = one_year_ago.strftime("%m/%d/%Y")
+six_months_ago = today - timedelta(days=180)
+date_from    = six_months_ago.strftime("%m/%d/%Y")
 date_to      = today.strftime("%m/%d/%Y")
 
 print(f"Pulling ICE contracts from {date_from} to {date_to}")
@@ -27,8 +27,8 @@ BASE_URL = "https://api.sam.gov/prod/opportunities/v2/search"
 
 base_params = {
     "api_key":     API_KEY,
-    "deptname":    "HOMELAND SECURITY",
-    "subtierName": "IMMIGRATION AND CUSTOMS ENFORCEMENT",
+    "deptname":    "HOMELAND SECURITY, DEPARTMENT OF",
+    "subtierName": "US IMMIGRATION AND CUSTOMS ENFORCEMENT",
     "postedFrom":  date_from,
     "postedTo":    date_to,
     "limit":       "1000",
@@ -137,7 +137,7 @@ for contract in all_contracts:
         contract["_matched_keywords"] = matched_keywords
         matched_contracts.append(contract)
 
-print(f"Contracts matching at least one keyword: {len(matched_keywords)}")
+print(f"Contracts matching at least one keyword: {len(matched_contracts)}")
 
 # -------------------------------------------------------
 # Save filtered results
