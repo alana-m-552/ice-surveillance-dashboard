@@ -1,0 +1,29 @@
+# Never commit your API key or local data files to GitHub.
+# This file tells Git to ignore them automatically.
+
+# API key config
+.env
+config.py
+secrets.py
+
+# Raw data files — too large for Git and refreshed daily
+ice_contracts_raw_*.json
+ice_contracts_surveillance_*.json
+
+# Python environment files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# VSCode workspace settings (optional — remove the next two lines
+# if you want to share VSCode settings with collaborators)
+.vscode/
+*.code-workspace
+
+# macOS junk
+.DS_Store
+
+# Windows junk
+Thumbs.db
