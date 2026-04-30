@@ -1,0 +1,1717 @@
+[
+  {
+    "noticeId": "87a1c3aeb8b04f488ab6592ce8bcc671",
+    "title": "C--NV5 Geospatial, Inc.\nGEOSPATIAL PRODUCTS AND SERVICES CONTRACT v4 (GPSC4)",
+    "solicitationNumber": "140G0226F0060",
+    "fullParentPathName": "INTERIOR, DEPARTMENT OF THE.US GEOLOGICAL SURVEY.OFC OF ACQUISITION  GRANTS-DENVER",
+    "fullParentPathCode": "014.1434.140G02",
+    "postedDate": "2026-04-24",
+    "type": "Award Notice",
+    "baseType": "Award Notice",
+    "archiveType": "auto15",
+    "archiveDate": "2026-05-09",
+    "typeOfSetAsideDescription": null,
+    "typeOfSetAside": null,
+    "responseDeadLine": null,
+    "naicsCode": "541360",
+    "naicsCodes": [
+      "541360"
+    ],
+    "classificationCode": "C219",
+    "active": "Yes",
+    "award": {
+      "date": "2026-04-24",
+      "number": "140G0221D0012",
+      "amount": "543158.53",
+      "awardee": {
+        "name": "NV5 GEOSPATIAL, INC.",
+        "location": {
+          "streetAddress": "10033 DR MARTIN LUTHER KING JR ST N",
+          "city": {
+            "code": "63000",
+            "name": "Saint Petersburg"
+          },
+          "state": {
+            "code": "FL",
+            "name": "Florida"
+          },
+          "zip": "33716",
+          "country": {
+            "code": "USA",
+            "name": "UNITED STATES"
+          }
+        },
+        "ueiSAM": "EMJEL3XM6A87",
+        "duns": "050264662",
+        "cageCode": "9R590"
+      }
+    },
+    "pointOfContact": [
+      {
+        "fax": null,
+        "type": "primary",
+        "email": "bwilson@usgs.gov",
+        "phone": "573-397-2277",
+        "title": null,
+        "fullName": "Wilson, Mary"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=87a1c3aeb8b04f488ab6592ce8bcc671",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "80225",
+      "city": "DENVER",
+      "countryCode": "USA",
+      "state": "CO"
+    },
+    "placeOfPerformance": {
+      "city": {},
+      "state": {},
+      "country": {}
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/87a1c3aeb8b04f488ab6592ce8bcc671/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=87a1c3aeb8b04f488ab6592ce8bcc671&limit=1"
+      }
+    ],
+    "resourceLinks": null,
+    "_matched_keywords": [
+      "geospatial"
+    ]
+  },
+  {
+    "noticeId": "8ae8f2210880499f844706f05b611f09",
+    "title": "C--NV5 Geospatial, Inc.\nGEOSPATIAL PRODUCTS AND SERVICES CONTRACT v4 (GPSC4)",
+    "solicitationNumber": "140G0226F0064",
+    "fullParentPathName": "INTERIOR, DEPARTMENT OF THE.US GEOLOGICAL SURVEY.OFC OF ACQUISITION  GRANTS-DENVER",
+    "fullParentPathCode": "014.1434.140G02",
+    "postedDate": "2026-04-23",
+    "type": "Award Notice",
+    "baseType": "Award Notice",
+    "archiveType": "auto15",
+    "archiveDate": "2026-05-08",
+    "typeOfSetAsideDescription": null,
+    "typeOfSetAside": null,
+    "responseDeadLine": null,
+    "naicsCode": "541360",
+    "naicsCodes": [
+      "541360"
+    ],
+    "classificationCode": "C219",
+    "active": "Yes",
+    "award": {
+      "date": "2026-04-23",
+      "number": "140G0221D0012",
+      "amount": "1140574.51",
+      "awardee": {
+        "name": "NV5 GEOSPATIAL, INC.",
+        "location": {
+          "streetAddress": "10033 DR MARTIN LUTHER KING JR ST N",
+          "city": {
+            "code": "63000",
+            "name": "Saint Petersburg"
+          },
+          "state": {
+            "code": "FL",
+            "name": "Florida"
+          },
+          "zip": "33716",
+          "country": {
+            "code": "USA",
+            "name": "UNITED STATES"
+          }
+        },
+        "ueiSAM": "EMJEL3XM6A87",
+        "duns": "050264662",
+        "cageCode": "9R590"
+      }
+    },
+    "pointOfContact": [
+      {
+        "fax": null,
+        "type": "primary",
+        "email": "bwilson@usgs.gov",
+        "phone": "573-397-2277",
+        "title": null,
+        "fullName": "Wilson, Mary"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=8ae8f2210880499f844706f05b611f09",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "80225",
+      "city": "DENVER",
+      "countryCode": "USA",
+      "state": "CO"
+    },
+    "placeOfPerformance": {
+      "city": {},
+      "state": {},
+      "country": {}
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/8ae8f2210880499f844706f05b611f09/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=8ae8f2210880499f844706f05b611f09&limit=1"
+      }
+    ],
+    "resourceLinks": null,
+    "_matched_keywords": [
+      "geospatial"
+    ]
+  },
+  {
+    "noticeId": "cd6fdc4bb6014972900329acebadf60b",
+    "title": "N063--NNG15SD41B 36C10B26F0113 | VISN 5 Video  Surveillance and Physical Access Control Systems |  VA-26-00011044",
+    "solicitationNumber": "36C10B26Q0033",
+    "fullParentPathName": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.TECHNOLOGY ACQUISITION CENTER NJ (36C10B)",
+    "fullParentPathCode": "036.3600.36C10B",
+    "postedDate": "2026-04-21",
+    "type": "Award Notice",
+    "baseType": "Award Notice",
+    "archiveType": "autocustom",
+    "archiveDate": "2026-05-21",
+    "typeOfSetAsideDescription": "Service-Disabled Veteran-Owned Small Business Set Aside",
+    "typeOfSetAside": "SDVOSBC",
+    "responseDeadLine": null,
+    "naicsCode": "541519",
+    "naicsCodes": [
+      "541519"
+    ],
+    "classificationCode": "N063",
+    "active": "Yes",
+    "award": {
+      "date": "2026-04-21",
+      "number": "NNG15SD41B36C10B26F0113",
+      "amount": "12679455.00",
+      "awardee": {
+        "name": "VETERAN INFORMATION TECHNOLOGIES, LLC",
+        "location": {
+          "streetAddress": "",
+          "streetAddress2": "",
+          "city": {
+            "name": "COLORADO SPRINGS"
+          },
+          "state": {
+            "name": "CO"
+          },
+          "zip": "80918-3845",
+          "country": {
+            "name": "CO"
+          }
+        },
+        "ueiSAM": "JD85DN2HY8K4",
+        "cageCode": "6ZQW0"
+      }
+    },
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "William.Waterhouse@va.gov",
+        "phone": "848-377-5097",
+        "title": "Contract Specialist",
+        "fullName": "William Waterhouse"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=cd6fdc4bb6014972900329acebadf60b",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "07724",
+      "city": "EATONTOWN",
+      "countryCode": "USA",
+      "state": "NJ"
+    },
+    "placeOfPerformance": {
+      "streetAddress": "",
+      "streetAddress2": "",
+      "city": {
+        "name": ""
+      },
+      "state": {
+        "name": ""
+      },
+      "zip": "",
+      "country": {
+        "name": ""
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/cd6fdc4bb6014972900329acebadf60b/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=cd6fdc4bb6014972900329acebadf60b&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/38559de2dc6d4a209d796650e166952c/download"
+    ],
+    "_matched_keywords": [
+      "surveillance"
+    ]
+  },
+  {
+    "noticeId": "f401828026a344c08b8a8b67a717c175",
+    "title": "Luminex iFlex DRSE Elite Plan",
+    "solicitationNumber": "1232SA26P0215",
+    "fullParentPathName": "AGRICULTURE, DEPARTMENT OF.AGRICULTURAL RESEARCH SERVICE.USDA ARS AFM APD",
+    "fullParentPathCode": "012.12H2.1232SA",
+    "postedDate": "2026-04-20",
+    "type": "Award Notice",
+    "baseType": "Combined Synopsis/Solicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-05-05",
+    "typeOfSetAsideDescription": null,
+    "typeOfSetAside": null,
+    "responseDeadLine": null,
+    "naicsCode": "811210",
+    "naicsCodes": [
+      "811210"
+    ],
+    "classificationCode": "J066",
+    "active": "Yes",
+    "award": {
+      "date": "2026-04-20",
+      "number": "1232SA26P0215",
+      "amount": "50424.00",
+      "awardee": {
+        "name": "LUMINEX CORP",
+        "location": {
+          "city": {
+            "code": "5000",
+            "name": "Austin"
+          },
+          "state": {
+            "code": "TX",
+            "name": "Texas"
+          },
+          "zip": "78727",
+          "country": {
+            "code": "USA",
+            "name": "UNITED STATES"
+          }
+        },
+        "ueiSAM": "VLLHHV5E3AL1",
+        "cageCode": "1K8M4"
+      }
+    },
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "kelly.wright@usda.gov",
+        "phone": "",
+        "title": null,
+        "fullName": "Kelly Wright"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=f401828026a344c08b8a8b67a717c175",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "20705",
+      "city": "BELTSVILLE",
+      "countryCode": "USA",
+      "state": "MD"
+    },
+    "placeOfPerformance": {},
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/f401828026a344c08b8a8b67a717c175/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=f401828026a344c08b8a8b67a717c175&limit=1"
+      }
+    ],
+    "resourceLinks": null,
+    "_matched_keywords": [
+      "ELITE"
+    ]
+  },
+  {
+    "noticeId": "453fa7d39d38413fbe061734adb9f8a9",
+    "title": "6515--HEMODYNAMIC MONITORING PLATFORM (VA-26-00049611)",
+    "solicitationNumber": "36C24726Q0387",
+    "fullParentPathName": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.247-NETWORK CONTRACT OFFICE 7 (36C247)",
+    "fullParentPathCode": "036.3600.36C247",
+    "postedDate": "2026-04-20",
+    "type": "Award Notice",
+    "baseType": "Special Notice",
+    "archiveType": "autocustom",
+    "archiveDate": "2026-06-19",
+    "typeOfSetAsideDescription": null,
+    "typeOfSetAside": "",
+    "responseDeadLine": null,
+    "naicsCode": "339112",
+    "naicsCodes": [
+      "339112"
+    ],
+    "classificationCode": "6515",
+    "active": "Yes",
+    "award": {
+      "date": "2026-04-15",
+      "number": "36C24726P0498",
+      "amount": "402000.00",
+      "awardee": {
+        "name": "Edwards Lifesciences LLC",
+        "location": {
+          "streetAddress": "",
+          "streetAddress2": "",
+          "city": {
+            "name": "IRVINE"
+          },
+          "state": {
+            "name": "CA"
+          },
+          "zip": "92614",
+          "country": {
+            "name": "CA"
+          }
+        },
+        "ueiSAM": "MR4FCKSNGRC1",
+        "cageCode": "1PYT9"
+      }
+    },
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "darius.crane@va.gov",
+        "phone": "(843) 577-5011",
+        "title": "Contracting Officer",
+        "fullName": "Darius Crane"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=453fa7d39d38413fbe061734adb9f8a9",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "30904",
+      "city": "AUGUSTA",
+      "countryCode": "USA",
+      "state": "GA"
+    },
+    "placeOfPerformance": {
+      "streetAddress": "",
+      "streetAddress2": "",
+      "city": {
+        "name": ""
+      },
+      "state": {
+        "name": ""
+      },
+      "zip": "",
+      "country": {
+        "name": ""
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/453fa7d39d38413fbe061734adb9f8a9/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=453fa7d39d38413fbe061734adb9f8a9&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/564149d035ae4045bf25c9e779188205/download"
+    ],
+    "_matched_keywords": [
+      "monitoring"
+    ]
+  },
+  {
+    "noticeId": "dc8ccc5b6eab46cc9f0c791d4dc05755",
+    "title": "C--Fugro USA Land, Inc.\nGEOSPATIAL PRODUCTS AND SERVICES CONTRACT v4 (GPSC4)",
+    "solicitationNumber": "140G0226F0109",
+    "fullParentPathName": "INTERIOR, DEPARTMENT OF THE.US GEOLOGICAL SURVEY.OFC OF ACQUISITION  GRANTS-DENVER",
+    "fullParentPathCode": "014.1434.140G02",
+    "postedDate": "2026-04-16",
+    "type": "Award Notice",
+    "baseType": "Award Notice",
+    "archiveType": "auto15",
+    "archiveDate": "2026-05-01",
+    "typeOfSetAsideDescription": null,
+    "typeOfSetAside": null,
+    "responseDeadLine": null,
+    "naicsCode": "541360",
+    "naicsCodes": [
+      "541360"
+    ],
+    "classificationCode": "C219",
+    "active": "Yes",
+    "award": {
+      "date": "2026-04-16",
+      "number": "140G0221D0010",
+      "amount": "2591991.81",
+      "awardee": {
+        "name": "FUGRO USA LAND, INC.",
+        "location": {
+          "streetAddress": "7320 EXECUTIVE WAY",
+          "city": {
+            "name": "FREDERICK"
+          },
+          "state": {
+            "code": "MD",
+            "name": "Maryland"
+          },
+          "zip": "21704",
+          "country": {
+            "code": "USA",
+            "name": "UNITED STATES"
+          }
+        },
+        "ueiSAM": "DZEKTEHP1FM5",
+        "duns": "361871759",
+        "cageCode": "1N4L2"
+      }
+    },
+    "pointOfContact": [
+      {
+        "fax": null,
+        "type": "primary",
+        "email": "bwilson@usgs.gov",
+        "phone": "573-397-2277",
+        "title": null,
+        "fullName": "Wilson, Mary"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=dc8ccc5b6eab46cc9f0c791d4dc05755",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "80225",
+      "city": "DENVER",
+      "countryCode": "USA",
+      "state": "CO"
+    },
+    "placeOfPerformance": {
+      "city": {},
+      "state": {},
+      "country": {}
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/dc8ccc5b6eab46cc9f0c791d4dc05755/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=dc8ccc5b6eab46cc9f0c791d4dc05755&limit=1"
+      }
+    ],
+    "resourceLinks": null,
+    "_matched_keywords": [
+      "geospatial"
+    ]
+  },
+  {
+    "noticeId": "b7069cbdb5b0495db0d85d847a0b00d7",
+    "title": "C--NV5 Geospatial, Inc.\nGEOSPATIAL PRODUCTS AND SERVICES CONTRACT v4 (GPSC4)",
+    "solicitationNumber": "140G0226F0099",
+    "fullParentPathName": "INTERIOR, DEPARTMENT OF THE.US GEOLOGICAL SURVEY.OFC OF ACQUISITION  GRANTS-DENVER",
+    "fullParentPathCode": "014.1434.140G02",
+    "postedDate": "2026-04-16",
+    "type": "Award Notice",
+    "baseType": "Award Notice",
+    "archiveType": "auto15",
+    "archiveDate": "2026-05-01",
+    "typeOfSetAsideDescription": null,
+    "typeOfSetAside": null,
+    "responseDeadLine": null,
+    "naicsCode": "541360",
+    "naicsCodes": [
+      "541360"
+    ],
+    "classificationCode": "C219",
+    "active": "Yes",
+    "award": {
+      "date": "2026-04-16",
+      "number": "140G0221D0012",
+      "amount": "153236.55",
+      "awardee": {
+        "name": "NV5 GEOSPATIAL, INC.",
+        "location": {
+          "streetAddress": "10033 DR MARTIN LUTHER KING JR ST N",
+          "city": {
+            "code": "63000",
+            "name": "Saint Petersburg"
+          },
+          "state": {
+            "code": "FL",
+            "name": "Florida"
+          },
+          "zip": "33716",
+          "country": {
+            "code": "USA",
+            "name": "UNITED STATES"
+          }
+        },
+        "ueiSAM": "EMJEL3XM6A87",
+        "duns": "050264662",
+        "cageCode": "9R590"
+      }
+    },
+    "pointOfContact": [
+      {
+        "fax": null,
+        "type": "primary",
+        "email": "bwilson@usgs.gov",
+        "phone": "573-397-2277",
+        "title": null,
+        "fullName": "Wilson, Mary"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=b7069cbdb5b0495db0d85d847a0b00d7",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "80225",
+      "city": "DENVER",
+      "countryCode": "USA",
+      "state": "CO"
+    },
+    "placeOfPerformance": {
+      "city": {},
+      "state": {},
+      "country": {}
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/b7069cbdb5b0495db0d85d847a0b00d7/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=b7069cbdb5b0495db0d85d847a0b00d7&limit=1"
+      }
+    ],
+    "resourceLinks": null,
+    "_matched_keywords": [
+      "geospatial"
+    ]
+  },
+  {
+    "noticeId": "74d72cb1d9dc4973abfc3e3a89e2f5ae",
+    "title": "Kineto Tracking Mount (KTM) Sustainment Contract",
+    "solicitationNumber": "N00421-22-RFPREQ-52440MA-0002v2",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVAIR.NAVAIR NAWC AD.NAVAL AIR WARFARE CENTER AIR DIV",
+    "fullParentPathCode": "017.1700.NAVAIR.NAVAIR NAWC AD.N00421",
+    "postedDate": "2026-04-16",
+    "type": "Award Notice",
+    "baseType": "Award Notice",
+    "archiveType": "autocustom",
+    "archiveDate": "2026-05-01",
+    "typeOfSetAsideDescription": "No Set aside used",
+    "typeOfSetAside": "NONE",
+    "responseDeadLine": null,
+    "naicsCode": "811210",
+    "naicsCodes": [
+      "811210"
+    ],
+    "classificationCode": "AC35",
+    "active": "Yes",
+    "award": {
+      "date": "2026-03-18",
+      "number": "N00421-26-D-1002",
+      "amount": "77818792.00",
+      "awardee": {
+        "name": "L3HARRIS INTERSTATE ELECTRONICS CORPORATION",
+        "location": {
+          "city": {
+            "code": "86832",
+            "name": "Yorba Linda"
+          },
+          "state": {
+            "code": "CA",
+            "name": "California"
+          },
+          "zip": "92887",
+          "country": {
+            "code": "USA",
+            "name": "UNITED STATES"
+          }
+        },
+        "ueiSAM": "JYAPS9B2MKE9",
+        "cageCode": "07421"
+      }
+    },
+    "pointOfContact": null,
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=74d72cb1d9dc4973abfc3e3a89e2f5ae",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "20670-1545",
+      "city": "PATUXENT RIVER",
+      "countryCode": "USA",
+      "state": "MD"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "2000",
+        "name": "Anaheim"
+      },
+      "state": {
+        "code": "CA",
+        "name": "California"
+      },
+      "zip": "92805",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/74d72cb1d9dc4973abfc3e3a89e2f5ae/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=74d72cb1d9dc4973abfc3e3a89e2f5ae&limit=1"
+      }
+    ],
+    "resourceLinks": null,
+    "_matched_keywords": [
+      "tracking"
+    ]
+  },
+  {
+    "noticeId": "4229528487da4b8fbb2fa7478984e3f8",
+    "title": "C--WOOLPERT\nGEOSPATIAL PRODUCTS AND SERVICES CONTRACT v4 (GPSC4)",
+    "solicitationNumber": "140G0226F0120",
+    "fullParentPathName": "INTERIOR, DEPARTMENT OF THE.US GEOLOGICAL SURVEY.OFC OF ACQUISITION  GRANTS-DENVER",
+    "fullParentPathCode": "014.1434.140G02",
+    "postedDate": "2026-04-16",
+    "type": "Award Notice",
+    "baseType": "Award Notice",
+    "archiveType": "auto15",
+    "archiveDate": "2026-05-01",
+    "typeOfSetAsideDescription": null,
+    "typeOfSetAside": null,
+    "responseDeadLine": null,
+    "naicsCode": "541360",
+    "naicsCodes": [
+      "541360"
+    ],
+    "classificationCode": "C219",
+    "active": "Yes",
+    "award": {
+      "date": "2026-04-16",
+      "number": "140G0221D0013",
+      "amount": "820424.74",
+      "awardee": {
+        "name": "WOOLPERT, INC.",
+        "location": {
+          "streetAddress": "4454 IDEA CENTER BLVD",
+          "city": {
+            "code": "21000",
+            "name": "Dayton"
+          },
+          "state": {
+            "code": "OH",
+            "name": "Ohio"
+          },
+          "zip": "45430",
+          "country": {
+            "code": "USA",
+            "name": "UNITED STATES"
+          }
+        },
+        "ueiSAM": "LD8UDJB9JLU1",
+        "duns": "008929457",
+        "cageCode": "0KR30"
+      }
+    },
+    "pointOfContact": [
+      {
+        "fax": null,
+        "type": "primary",
+        "email": "bwilson@usgs.gov",
+        "phone": "573-397-2277",
+        "title": null,
+        "fullName": "Wilson, Mary"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=4229528487da4b8fbb2fa7478984e3f8",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "80225",
+      "city": "DENVER",
+      "countryCode": "USA",
+      "state": "CO"
+    },
+    "placeOfPerformance": {
+      "city": {},
+      "state": {},
+      "country": {}
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/4229528487da4b8fbb2fa7478984e3f8/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=4229528487da4b8fbb2fa7478984e3f8&limit=1"
+      }
+    ],
+    "resourceLinks": null,
+    "_matched_keywords": [
+      "geospatial"
+    ]
+  },
+  {
+    "noticeId": "f0f8c55f446a45628bb95e795cebea5e",
+    "title": "R--This task order will support the development of Defense Planning, strategic plans, the annual development of the SSMP, industrial base monitoring at the enterprise level, and CFIUS activities",
+    "solicitationNumber": "89233125QNA000416",
+    "fullParentPathName": "ENERGY, DEPARTMENT OF.ENERGY, DEPARTMENT OF.NNSA NON-MO CNTRCTNG OPS DIV",
+    "fullParentPathCode": "089.8900.892331",
+    "postedDate": "2026-04-15",
+    "type": "Award Notice",
+    "baseType": "Solicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-04-30",
+    "typeOfSetAsideDescription": null,
+    "typeOfSetAside": null,
+    "responseDeadLine": null,
+    "naicsCode": "541330",
+    "naicsCodes": [
+      "541330"
+    ],
+    "classificationCode": "R499",
+    "active": "Yes",
+    "award": {
+      "date": "2026-04-15",
+      "number": "GS-00F-0004U",
+      "amount": "4464689",
+      "awardee": {
+        "name": "VECTOR RESOURCE INC",
+        "location": {
+          "streetAddress": "PO Box 38",
+          "city": {
+            "code": "69376",
+            "name": "Sewickley"
+          },
+          "state": {
+            "code": "PA",
+            "name": "Pennsylvania"
+          },
+          "zip": "15143",
+          "country": {
+            "code": "USA",
+            "name": "UNITED STATES"
+          }
+        },
+        "ueiSAM": "EK38FYR4WKJ7",
+        "cageCode": "1SML4"
+      }
+    },
+    "pointOfContact": [
+      {
+        "fax": null,
+        "type": "primary",
+        "email": "kevin.wade@nnsa.doe.gov",
+        "phone": "301-366-1488",
+        "title": null,
+        "fullName": "Wade, Kevin T."
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=f0f8c55f446a45628bb95e795cebea5e",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "87185",
+      "city": "ALBUQUERQUE",
+      "countryCode": "USA",
+      "state": "NM"
+    },
+    "placeOfPerformance": {
+      "city": {},
+      "state": {},
+      "country": {}
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/f0f8c55f446a45628bb95e795cebea5e/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=f0f8c55f446a45628bb95e795cebea5e&limit=1"
+      }
+    ],
+    "resourceLinks": null,
+    "_matched_keywords": [
+      "monitoring"
+    ]
+  },
+  {
+    "noticeId": "e81cb0c4786641bcbcf668e869daec4b",
+    "title": "59--CONTROL-MONITORING",
+    "solicitationNumber": "SPE7M126T7849",
+    "fullParentPathName": "DEPT OF DEFENSE.DEFENSE LOGISTICS AGENCY.DLA MARITIME.DLA MARITIME COLUMBUS.DLA LAND AND MARITIME",
+    "fullParentPathCode": "097.97AS.DLA MARITIME.DLA MARITIME COLUMBS.SPE7M1",
+    "postedDate": "2026-04-15",
+    "type": "Award Notice",
+    "baseType": "Award Notice",
+    "archiveType": "auto15",
+    "archiveDate": "2026-04-30",
+    "typeOfSetAsideDescription": null,
+    "typeOfSetAside": null,
+    "responseDeadLine": null,
+    "naicsCode": "334412",
+    "naicsCodes": [
+      "334412"
+    ],
+    "classificationCode": "59",
+    "active": "Yes",
+    "award": {
+      "date": "2026-04-15",
+      "number": "SPE7M126V7972",
+      "amount": "38430.00",
+      "awardee": {
+        "name": "BLUPESU LLC",
+        "ueiSAM": "XG6ASCU1PBM9",
+        "cageCode": "0QWF0"
+      }
+    },
+    "pointOfContact": [
+      {
+        "fax": null,
+        "type": "primary",
+        "email": "CARROLLINE.KELLY@DLA.MIL",
+        "phone": null,
+        "title": null,
+        "fullName": "Carrolline Kelly6146923131"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e81cb0c4786641bcbcf668e869daec4b",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "43218-3990",
+      "city": "COLUMBUS",
+      "countryCode": "USA",
+      "state": "OH"
+    },
+    "placeOfPerformance": null,
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/e81cb0c4786641bcbcf668e869daec4b/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=e81cb0c4786641bcbcf668e869daec4b&limit=1"
+      }
+    ],
+    "resourceLinks": null,
+    "_matched_keywords": [
+      "monitoring"
+    ]
+  },
+  {
+    "noticeId": "d72dd40bd5ce47149836c17e9024ede0",
+    "title": "Cellebrite Products and Services",
+    "solicitationNumber": "70CMSD26P00000034",
+    "fullParentPathName": "HOMELAND SECURITY, DEPARTMENT OF.US IMMIGRATION AND CUSTOMS ENFORCEMENT.INVESTIGATIONS AND OPERATIONS SUPPORT DALLAS",
+    "fullParentPathCode": "070.7012.70CMSD",
+    "postedDate": "2026-04-15",
+    "type": "Award Notice",
+    "baseType": "Solicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-04-30",
+    "typeOfSetAsideDescription": null,
+    "typeOfSetAside": null,
+    "responseDeadLine": null,
+    "naicsCode": "541519",
+    "naicsCodes": [
+      "541519"
+    ],
+    "classificationCode": "7D20",
+    "active": "Yes",
+    "award": {
+      "date": "2026-04-15",
+      "number": "70CMSD26P00000034",
+      "amount": "948620.64",
+      "awardee": {
+        "name": "FCN, INC.",
+        "location": {
+          "city": {
+            "code": "67675",
+            "name": "Rockville"
+          },
+          "state": {
+            "code": "MD",
+            "name": "Maryland"
+          },
+          "zip": "20852",
+          "country": {
+            "code": "USA",
+            "name": "UNITED STATES"
+          }
+        },
+        "ueiSAM": "JEANDJTZ8HJ3",
+        "cageCode": "0WU14"
+      }
+    },
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "bryan.j.ford@ice.dhs.gov",
+        "phone": "",
+        "title": null,
+        "fullName": "Bryan Ford"
+      },
+      {
+        "fax": "",
+        "type": "secondary",
+        "email": "jason.zheng@ice.dhs.gov",
+        "phone": "",
+        "title": null,
+        "fullName": "Jason Zheng"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=d72dd40bd5ce47149836c17e9024ede0",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "75063",
+      "city": "Irving",
+      "countryCode": "USA",
+      "state": "TX"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "26496",
+        "name": "Fairfax"
+      },
+      "state": {
+        "code": "VA",
+        "name": "Virginia"
+      },
+      "zip": "22030",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/d72dd40bd5ce47149836c17e9024ede0/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=d72dd40bd5ce47149836c17e9024ede0&limit=1"
+      }
+    ],
+    "resourceLinks": null,
+    "_matched_keywords": [
+      "Cellebrite"
+    ]
+  },
+  {
+    "noticeId": "826d09393dd149af9653277288c6ea96",
+    "title": "Award Notice: Base Year plus Four Option Years: (Award Date-03/31/2031) William S. Middleton Memorial Veterans Hospital and the Tomah VA Medical Center. Alvarez LLC-Philips Patient Monitoring Systems Software Support and Integration Services",
+    "solicitationNumber": "36C25226Q0308",
+    "fullParentPathName": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.252-NETWORK CONTRACT OFFICE 12 (36C252)",
+    "fullParentPathCode": "036.3600.36C252",
+    "postedDate": "2026-04-10",
+    "type": "Award Notice",
+    "baseType": "Award Notice",
+    "archiveType": "autocustom",
+    "archiveDate": "2026-06-08",
+    "typeOfSetAsideDescription": "Service-Disabled Veteran-Owned Small Business Set Aside",
+    "typeOfSetAside": "SDVOSBC",
+    "responseDeadLine": null,
+    "naicsCode": "541519",
+    "naicsCodes": [
+      "541519"
+    ],
+    "classificationCode": "DF10",
+    "active": "Yes",
+    "award": {
+      "date": "2026-04-09",
+      "number": "NNG15SD19B",
+      "amount": "762711.19",
+      "awardee": {
+        "name": "Alvarez LLC",
+        "location": {
+          "city": {
+            "code": "44984",
+            "name": "Leesburg"
+          },
+          "state": {
+            "code": "VA",
+            "name": "Virginia"
+          },
+          "zip": "20176",
+          "country": {
+            "code": "USA",
+            "name": "UNITED STATES"
+          }
+        },
+        "ueiSAM": "Y928UVG75CT6",
+        "cageCode": "35LK3"
+      }
+    },
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "William.McQuade@va.gov",
+        "phone": "",
+        "title": null,
+        "fullName": "William McQuade"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=826d09393dd149af9653277288c6ea96",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "53214",
+      "city": "MILWAUKEE",
+      "countryCode": "USA",
+      "state": "WI"
+    },
+    "placeOfPerformance": {
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/826d09393dd149af9653277288c6ea96/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=826d09393dd149af9653277288c6ea96&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2c3c3f3c2d90499c82a2d9b5867a0569/download"
+    ],
+    "_matched_keywords": [
+      "monitoring"
+    ]
+  },
+  {
+    "noticeId": "3534d550f2544e24be5620fdb5dcf348",
+    "title": "Z2DA--554-26-102 | Install Humidification Monitoring and Control  for Pharmacy Cache",
+    "solicitationNumber": "36C25926Q0166",
+    "fullParentPathName": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.NETWORK CONTRACT OFFICE 19 (36C259)",
+    "fullParentPathCode": "036.3600.36C259",
+    "postedDate": "2026-04-09",
+    "type": "Award Notice",
+    "baseType": "Solicitation",
+    "archiveType": "autocustom",
+    "archiveDate": "2026-06-08",
+    "typeOfSetAsideDescription": "Service-Disabled Veteran-Owned Small Business Set Aside",
+    "typeOfSetAside": "SDVOSBC",
+    "responseDeadLine": null,
+    "naicsCode": "236220",
+    "naicsCodes": [
+      "236220"
+    ],
+    "classificationCode": "Z2DA",
+    "active": "Yes",
+    "award": {
+      "date": "2026-03-31",
+      "number": "36C25926P0351",
+      "amount": "222589.56",
+      "awardee": {
+        "name": "Sterling Constructors LLC",
+        "location": {
+          "streetAddress": "",
+          "streetAddress2": "",
+          "city": {
+            "name": "DENVER"
+          },
+          "state": {
+            "name": "CO"
+          },
+          "zip": "80229",
+          "country": {
+            "name": "CO"
+          }
+        },
+        "ueiSAM": "Z92AAAUR66M9",
+        "cageCode": "12P25"
+      }
+    },
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "Timothy.Verburgt@va.gov",
+        "phone": "303-712-5707",
+        "title": "Contract Specialist",
+        "fullName": "Timothy Verburgt"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=3534d550f2544e24be5620fdb5dcf348",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "80111",
+      "city": "Greenwood Village",
+      "countryCode": "USA",
+      "state": "CO"
+    },
+    "placeOfPerformance": {
+      "streetAddress": "",
+      "streetAddress2": "",
+      "city": {
+        "name": ""
+      },
+      "state": {
+        "name": ""
+      },
+      "zip": "",
+      "country": {
+        "name": ""
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/3534d550f2544e24be5620fdb5dcf348/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=3534d550f2544e24be5620fdb5dcf348&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/dce7e0548067469d996b19fd8bbc0d9e/download"
+    ],
+    "_matched_keywords": [
+      "monitoring"
+    ]
+  },
+  {
+    "noticeId": "d5defc9ff2ac436f884b469f5922e214",
+    "title": "6515--AWARDED Sole Source - DX 200 Head Mounted 3D Goggle Eye  Tracking System.",
+    "solicitationNumber": "36C26326Q0466",
+    "fullParentPathName": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.NETWORK CONTRACT OFFICE 23 (36C263)",
+    "fullParentPathCode": "036.3600.36C263",
+    "postedDate": "2026-04-08",
+    "type": "Award Notice",
+    "baseType": "Award Notice",
+    "archiveType": "autocustom",
+    "archiveDate": "2026-05-08",
+    "typeOfSetAsideDescription": null,
+    "typeOfSetAside": "",
+    "responseDeadLine": null,
+    "naicsCode": "334510",
+    "naicsCodes": [
+      "334510"
+    ],
+    "classificationCode": "6515",
+    "active": "Yes",
+    "award": {
+      "date": "2026-04-08",
+      "number": "36C26326P0353",
+      "amount": "62650.00",
+      "awardee": {
+        "name": "SPRYSON AMERICA, INC.",
+        "location": {
+          "streetAddress": "",
+          "streetAddress2": "",
+          "city": {
+            "name": "PITTSBURGH"
+          },
+          "state": {
+            "name": "PA"
+          },
+          "zip": "15238",
+          "country": {
+            "name": "PA"
+          }
+        },
+        "ueiSAM": "KCHWLNDUT268",
+        "cageCode": "8H7T2"
+      }
+    },
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "Joseph.Bennett@va.gov",
+        "phone": "319-688-3633",
+        "title": "Contract Officer",
+        "fullName": "Joseph Bennett"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=d5defc9ff2ac436f884b469f5922e214",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "55101",
+      "city": "Saint Paul",
+      "countryCode": "USA",
+      "state": "MN"
+    },
+    "placeOfPerformance": {
+      "streetAddress": "",
+      "streetAddress2": "",
+      "city": {
+        "name": ""
+      },
+      "state": {
+        "name": ""
+      },
+      "zip": "",
+      "country": {
+        "name": ""
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/d5defc9ff2ac436f884b469f5922e214/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=d5defc9ff2ac436f884b469f5922e214&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9a5da260d5d74657a5c50e5f702a4d8b/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ffb7fd5549c8402b9be8152069ad4f3e/download"
+    ],
+    "_matched_keywords": [
+      "tracking"
+    ]
+  },
+  {
+    "noticeId": "59c4afcc372a4acb8a05701384f1da72",
+    "title": "Q510--Intraoperative Neuromonitoring (IONM) Services VA San Diego  Healthcare System (VASDHS)",
+    "solicitationNumber": "36C26226Q0144",
+    "fullParentPathName": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.262-NETWORK CONTRACT OFFICE 22 (36C262)",
+    "fullParentPathCode": "036.3600.36C262",
+    "postedDate": "2026-04-07",
+    "type": "Award Notice",
+    "baseType": "Combined Synopsis/Solicitation",
+    "archiveType": "autocustom",
+    "archiveDate": "2026-05-07",
+    "typeOfSetAsideDescription": "Service-Disabled Veteran-Owned Small Business Set Aside",
+    "typeOfSetAside": "SDVOSBC",
+    "responseDeadLine": null,
+    "naicsCode": "561320",
+    "naicsCodes": [
+      "561320"
+    ],
+    "classificationCode": "Q510",
+    "active": "Yes",
+    "award": {
+      "date": "2026-04-01",
+      "number": "36C26226D0074",
+      "amount": "992549.57",
+      "awardee": {
+        "name": "Risen Video Production, LLC",
+        "location": {
+          "streetAddress": "",
+          "streetAddress2": "",
+          "city": {
+            "name": "WOODLAND HILLS"
+          },
+          "state": {
+            "name": "CA"
+          },
+          "zip": "91367",
+          "country": {
+            "name": "CA"
+          }
+        },
+        "ueiSAM": "L4EFRBEMENC4",
+        "cageCode": "8MQY5"
+      }
+    },
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "michael.kahyai@va.gov",
+        "phone": "(951) 601-4540",
+        "title": "Contract Specialist",
+        "fullName": "Michael  Kahyai"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=59c4afcc372a4acb8a05701384f1da72",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "85297",
+      "city": "Gilbert",
+      "countryCode": "USA",
+      "state": "AZ"
+    },
+    "placeOfPerformance": {
+      "streetAddress": "",
+      "streetAddress2": "",
+      "city": {
+        "name": ""
+      },
+      "state": {
+        "name": ""
+      },
+      "zip": "",
+      "country": {
+        "name": ""
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/59c4afcc372a4acb8a05701384f1da72/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=59c4afcc372a4acb8a05701384f1da72&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8bc173eca29f49429903661ca44ebb25/download"
+    ],
+    "_matched_keywords": [
+      "monitoring"
+    ]
+  },
+  {
+    "noticeId": "de4e0ff950ca41dfa17d0274926d8381",
+    "title": "6515--Digital Transcutaneous Blood Gas Monitoring System",
+    "solicitationNumber": "36C26126Q0289",
+    "fullParentPathName": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.261-NETWORK CONTRACT OFFICE 21 (36C261)",
+    "fullParentPathCode": "036.3600.36C261",
+    "postedDate": "2026-03-04",
+    "type": "Award Notice",
+    "baseType": "Solicitation",
+    "archiveType": "autocustom",
+    "archiveDate": "2026-05-03",
+    "typeOfSetAsideDescription": null,
+    "typeOfSetAside": "",
+    "responseDeadLine": null,
+    "naicsCode": "334510",
+    "naicsCodes": [
+      "334510"
+    ],
+    "classificationCode": "6515",
+    "active": "Yes",
+    "award": {
+      "date": "2026-03-03",
+      "number": "36C26126P0495",
+      "amount": "39186.87",
+      "awardee": {
+        "name": "SENTEC, INC.",
+        "location": {
+          "streetAddress": "",
+          "streetAddress2": "",
+          "city": {
+            "name": "LINCOLN"
+          },
+          "state": {
+            "name": "RI"
+          },
+          "zip": "02865",
+          "country": {
+            "name": "RI"
+          }
+        },
+        "ueiSAM": "JCYVNVQZ2RX4",
+        "cageCode": "86Z83"
+      }
+    },
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "tawnya.krommenhoek@va.gov",
+        "phone": "tawnya.krommenhoek@va.gov",
+        "title": "Contracting Officer",
+        "fullName": "Tawnya Krommenhoek"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=de4e0ff950ca41dfa17d0274926d8381",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "95655",
+      "city": "MATHER",
+      "countryCode": "USA",
+      "state": "CA"
+    },
+    "placeOfPerformance": {
+      "streetAddress": "",
+      "streetAddress2": "",
+      "city": {
+        "name": ""
+      },
+      "state": {
+        "name": ""
+      },
+      "zip": "",
+      "country": {
+        "name": ""
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/de4e0ff950ca41dfa17d0274926d8381/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=de4e0ff950ca41dfa17d0274926d8381&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/eb6e64d3072c44d6aecef6aa2eca5677/download"
+    ],
+    "_matched_keywords": [
+      "monitoring"
+    ]
+  },
+  {
+    "noticeId": "3b62db0edb894a859266176a1f682687",
+    "title": "LEICA CEREBRO TRACKING SYSTEM",
+    "solicitationNumber": "36C25026P0384",
+    "fullParentPathName": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.250-NETWORK CONTRACT OFFICE 10 (36C250)",
+    "fullParentPathCode": "036.3600.36C250",
+    "postedDate": "2026-02-12",
+    "type": "Award Notice",
+    "baseType": "Award Notice",
+    "archiveType": "autocustom",
+    "archiveDate": "2026-05-12",
+    "typeOfSetAsideDescription": "No Set aside used",
+    "typeOfSetAside": "NONE",
+    "responseDeadLine": null,
+    "naicsCode": "334516",
+    "naicsCodes": [
+      "334516"
+    ],
+    "classificationCode": "6515",
+    "active": "Yes",
+    "award": {
+      "date": "2026-02-12",
+      "number": "36C25026P0384",
+      "amount": "227214.92",
+      "awardee": {
+        "name": "LEICA MICROSYSTEMS INC.",
+        "location": {
+          "city": {
+            "code": "18992",
+            "name": "Deerfield"
+          },
+          "state": {
+            "code": "IL",
+            "name": "Illinois"
+          },
+          "zip": "60015",
+          "country": {
+            "code": "USA",
+            "name": "UNITED STATES"
+          }
+        },
+        "ueiSAM": "VN38G4R6FUB9",
+        "cageCode": "0F735"
+      }
+    },
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "rachelle.hamer@va.gov",
+        "phone": "2164478300",
+        "title": null,
+        "fullName": "Rachelle  Hamer"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=3b62db0edb894a859266176a1f682687",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "45428",
+      "city": "DAYTON",
+      "countryCode": "USA",
+      "state": "OH"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "16000",
+        "name": "Cleveland"
+      },
+      "state": {
+        "code": "OH",
+        "name": "Ohio"
+      },
+      "zip": "44106",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/3b62db0edb894a859266176a1f682687/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=3b62db0edb894a859266176a1f682687&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c07b6de48998465bbaf50c3c994af54a/download"
+    ],
+    "_matched_keywords": [
+      "tracking"
+    ]
+  },
+  {
+    "noticeId": "1e224b00af02485ca5b1f42acca3f3cf",
+    "title": "H--HEHO Alarm Monitoring",
+    "solicitationNumber": "140P6426Q0009",
+    "fullParentPathName": "INTERIOR, DEPARTMENT OF THE.NATIONAL PARK SERVICE.MWR OHIO(64000)",
+    "fullParentPathCode": "014.1443.140P64",
+    "postedDate": "2026-01-14",
+    "type": "Award Notice",
+    "baseType": "Award Notice",
+    "archiveType": "autocustom",
+    "archiveDate": "2026-09-30",
+    "typeOfSetAsideDescription": null,
+    "typeOfSetAside": null,
+    "responseDeadLine": null,
+    "naicsCode": "238210",
+    "naicsCodes": [
+      "238210"
+    ],
+    "classificationCode": "H263",
+    "active": "Yes",
+    "award": {
+      "date": "2026-01-14",
+      "number": "140P6426P0004",
+      "amount": "2903.69",
+      "awardee": {
+        "name": "HACKETT SECURITY, INC",
+        "location": {
+          "streetAddress": "9811 S 40 DR",
+          "city": {
+            "name": "SAINT LOUIS"
+          },
+          "state": {
+            "code": "MO",
+            "name": "Missouri"
+          },
+          "zip": "63124",
+          "country": {
+            "code": "USA",
+            "name": "UNITED STATES"
+          }
+        },
+        "ueiSAM": "F38MUAKDJGJ8",
+        "cageCode": "54G51"
+      }
+    },
+    "pointOfContact": [
+      {
+        "fax": null,
+        "type": "primary",
+        "email": "jordan_ellis@nps.gov",
+        "phone": "330-468-2500 x3",
+        "title": null,
+        "fullName": "Ellis, Jordan"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=1e224b00af02485ca5b1f42acca3f3cf",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "44067",
+      "city": "Macedonia",
+      "countryCode": "USA",
+      "state": "OH"
+    },
+    "placeOfPerformance": {
+      "city": {},
+      "state": {},
+      "country": {}
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/1e224b00af02485ca5b1f42acca3f3cf/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=1e224b00af02485ca5b1f42acca3f3cf&limit=1"
+      }
+    ],
+    "resourceLinks": null,
+    "_matched_keywords": [
+      "monitoring"
+    ]
+  },
+  {
+    "noticeId": "ca19c67e11de4e0f9db31089fd1e7450",
+    "title": "Guam Construction Security Monitoring (CSM) Supporting Construction Services & Equipment",
+    "solicitationNumber": "W912DR25RA051",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION NORTH ATLANTIC.ENDIST BALTIMORE.W2SD ENDIST BALTIMORE",
+    "fullParentPathCode": "021.2100.USACE.NAD.NAB.W912DR",
+    "postedDate": "2025-12-19",
+    "type": "Award Notice",
+    "baseType": "Solicitation",
+    "archiveType": "autocustom",
+    "archiveDate": "2026-10-10",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": null,
+    "naicsCode": "561621",
+    "naicsCodes": [
+      "561621"
+    ],
+    "classificationCode": "S211",
+    "active": "Yes",
+    "award": {
+      "date": "2025-10-10",
+      "number": "W912DR-26-C-A001",
+      "amount": "10582781.14",
+      "awardee": {
+        "name": "FALKEN INDUSTRIES LLC",
+        "location": {
+          "city": {
+            "code": "65000",
+            "name": "San Antonio"
+          },
+          "state": {
+            "code": "TX",
+            "name": "Texas"
+          },
+          "zip": "78238",
+          "country": {
+            "code": "USA",
+            "name": "UNITED STATES"
+          }
+        },
+        "ueiSAM": "L2GHV9BKH2F1",
+        "cageCode": "3L9V0"
+      }
+    },
+    "pointOfContact": [
+      {
+        "fax": null,
+        "type": "primary",
+        "email": "samuel.p.vido@usace.army.mil",
+        "phone": null,
+        "title": null,
+        "fullName": "Samuel Vido"
+      },
+      {
+        "fax": "",
+        "type": "secondary",
+        "email": "nicole.c.brookes@usace.army.mil",
+        "phone": "4109622935",
+        "title": null,
+        "fullName": "Nicole Brookes"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ca19c67e11de4e0f9db31089fd1e7450",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "21201-2526",
+      "city": "BALTIMORE",
+      "countryCode": "USA",
+      "state": "MD"
+    },
+    "placeOfPerformance": {
+      "state": {
+        "code": "GU",
+        "name": "Guam"
+      },
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/ca19c67e11de4e0f9db31089fd1e7450/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=ca19c67e11de4e0f9db31089fd1e7450&limit=1"
+      }
+    ],
+    "resourceLinks": null,
+    "_matched_keywords": [
+      "monitoring"
+    ]
+  }
+]
