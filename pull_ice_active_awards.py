@@ -12,10 +12,11 @@ API_KEY = "SAM-91ccd717-7373-4f42-89bf-61b6fe74e966"
 # -------------------------------------------------------
 # Date range — 180 days (SAM.gov rejects ranges over ~1 year)
 # -------------------------------------------------------
-today          = datetime.today()
-six_months_ago = today - timedelta(days=180)
-date_from      = six_months_ago.strftime("%m/%d/%Y")
-date_to        = today.strftime("%m/%d/%Y")
+today             = datetime.today()
+twelve_months_ago = today - timedelta(days=360)
+six_months_ago    = today - timedelta(days=180)
+date_from         = twelve_months_ago.strftime("%m/%d/%Y")
+date_to           = six_months_ago.strftime("%m/%d/%Y")
 
 print("=" * 55)
 print("ICE ACTIVE AWARD NOTICES PULL")

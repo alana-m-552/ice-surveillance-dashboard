@@ -1,0 +1,81 @@
+[
+  {
+    "noticeId": "dfe6a32ca43341dd9557af4f2e8f46d0",
+    "title": "Groundwater Monitoring and Well Abandonment Services",
+    "solicitationNumber": "W911SA25DA028",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.MISSION INSTALLATION CONTRACTING COMMAND.419TH CSB.W6QM MICC FT MCCOY (RC)",
+    "fullParentPathCode": "021.2100.AMC.ACC.MICC.419TH CSB.W911SA",
+    "postedDate": "2025-07-02",
+    "type": "Award Notice",
+    "baseType": "Award Notice",
+    "archiveType": "autocustom",
+    "archiveDate": "2026-07-02",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": null,
+    "naicsCode": null,
+    "naicsCodes": [],
+    "classificationCode": "",
+    "active": "Yes",
+    "award": {
+      "date": "2025-07-01",
+      "number": "W911SA25DA028",
+      "amount": "117048",
+      "awardee": {
+        "name": "HYDE ENVIRONMENTAL, INC.",
+        "location": {
+          "streetAddress": "W175N11163 STONEWOOD DR STE 110",
+          "city": {
+            "code": "28875",
+            "name": "Germantown"
+          },
+          "state": {
+            "code": "WI",
+            "name": "Wisconsin"
+          },
+          "zip": "53022",
+          "country": {
+            "code": "USA",
+            "name": "UNITED STATES"
+          }
+        },
+        "ueiSAM": "Y2GRVN68CNJ7",
+        "cageCode": "6C4B9"
+      }
+    },
+    "pointOfContact": [
+      {
+        "fax": null,
+        "type": "primary",
+        "email": "kayla.j.christian.civ@army.mil",
+        "phone": "5207061227",
+        "title": null,
+        "fullName": "Kayla Christian"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=dfe6a32ca43341dd9557af4f2e8f46d0",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "54656-5142",
+      "city": "FORT MCCOY",
+      "countryCode": "USA",
+      "state": "WI"
+    },
+    "placeOfPerformance": {
+      "streetAddress": "Fort McCoy, Wisconsin",
+      "zip": "54656"
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/dfe6a32ca43341dd9557af4f2e8f46d0/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=dfe6a32ca43341dd9557af4f2e8f46d0&limit=1"
+      }
+    ],
+    "resourceLinks": null,
+    "_matched_keywords": [
+      "monitoring"
+    ]
+  }
+]
